@@ -6,3 +6,5 @@ Project folder\
  | - Summary\
  | - Specifics\
        | - Files here\
+
+## Recommended editor: Obsidian

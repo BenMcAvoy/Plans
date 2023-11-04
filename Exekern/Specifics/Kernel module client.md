@@ -13,5 +13,5 @@ An example report could look like this:
 * File       - /usr/bin/cowsay
 * Date     - 4.04.23
 * Reason - Unkown
-
-The backend could use something like protobufs and gRPC to communicate this. [Lanboard](https://github.com/BenMcAvoy/Lanboard) could be used as an example for protobufs and gRPCS with Rust and Go.
+:w
+The backend could use something like protobufs and gRPC to communicate this. [[Lanboard/Summary|Lanboard]] could be used as an example for protobufs and gRPCS with Rust and Go.
